@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings/
+
+target/
+
+test/
+
+config/*.config
+config/*.conf
+
+**/.DS_Store
+
+src-groovy-patch/
+
